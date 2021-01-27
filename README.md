@@ -63,7 +63,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/danielmarcosh/projeto-java-jdbc.git
+git clone https://github.com/danielmarcosh/course-springboot-2-java-11.git
 ```
 ```java
 // Abrir o projeto 'course-springboot-2-java-11' no editor Eclipse ou em um de editor de sua preferencia
